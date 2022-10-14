@@ -5,3 +5,11 @@
     margin: 20px;
     padding: 20px;
   }
+
+  #para1 {
+    text-align: center;
+    color: red;
+  }
+
+.link { color: #FF0000; } /* CSS link color (red) */
+.link:hover { color: #00FF00; } /* CSS link hover (green) */
