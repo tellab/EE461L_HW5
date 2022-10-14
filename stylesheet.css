@@ -11,5 +11,9 @@
     color: red;
 }
 
+h2 {
+    color: gold
+}
+
 a { color: #FF0000; } /* CSS link color (red) */
 a:hover { color: #00FF00; } /* CSS link hover (green) */
