@@ -1,5 +1,5 @@
 .city {
-    background-color: tomato;
+    background-color: gold;
     color: white;
     border: 2px solid black;
     margin: 20px;
@@ -11,9 +11,8 @@
     color: red;
 }
 
-h2 {
-    color: gold
+h6 {
+    color: blue
 }
-
 a { color: #FF0000; } /* CSS link color (red) */
 a:hover { color: #00FF00; } /* CSS link hover (green) */
